@@ -34,3 +34,6 @@
     pip install pandas matplotlib seaborn
 3. **Запустите Jupyter Notebook и откройте файл netflix_analysis.ipynb.**
     
+## Автор
+Игорь Сотиков  
+[GitHub](https://github.com/Sotichsays)
